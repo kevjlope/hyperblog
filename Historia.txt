@@ -11,3 +11,4 @@ en mi Laptop Lenovo y a la vez comprobar si hice
 correctamente la coneccion SSH 
 
 Master 1
+Master 2
