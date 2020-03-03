@@ -7,6 +7,7 @@ Muy bien ahora escribire tonteras:
 - **Holi**
 - **Como estan**
 - **Nunca pares de aprender**
+-Creado por Kevin Lopez
 
 Algo random: 
 ***"En tu lista de jobins favoritos deberia estar: compartir lo que has aprendido." ***
