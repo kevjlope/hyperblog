@@ -7,8 +7,9 @@ Muy bien ahora escribire tonteras:
 - **Holi**
 - **Como estan**
 - **Nunca pares de aprender**
--Creado por Kevin Lopez
-
+- Creado por Kevin Lopez
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 Algo random: 
 ***"En tu lista de jobins favoritos deberia estar: compartir lo que has aprendido." ***
 
